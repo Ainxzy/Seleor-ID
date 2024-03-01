@@ -10,7 +10,7 @@
   </head>
 <body>
       
-  <p id="paral">Hllo World!</p>
+  <p id="paral">Hello World!</p>
   <p>Este parágrafo não é afetado pelo estilo.</p>
 
 </body>
